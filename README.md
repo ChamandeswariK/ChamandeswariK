@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Data Scientist with 2+ years of experience building Generative AI and LLM-based solutions at IBM.
+Data Scientist with 3+ years of experience building Generative AI and LLM-based solutions at IBM.
 
 - 🔹 Specialized in SAP + GenAI use cases
 - 🔹 Built AI agents for automation and impact analysis
